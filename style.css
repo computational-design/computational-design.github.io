@@ -4,6 +4,10 @@
       background-size: cover;
       color: white;
     }
+    body {
+    font-family: 'Chivo Mono', cursive;
+    }
+    
     a {
       color: white;
     }
