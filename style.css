@@ -1,6 +1,6 @@
     header {
       text-align: center;
-      background:rgb(224, 191, 204);
+      background:rgb(19, 36, 61 );
       background-size: cover;
       color: white;
     }
@@ -9,7 +9,7 @@
     }
     h1 {
       font-size: 70px;
-      color: rgb(129, 133, 137);
+      color: rgb(255, 255, 255);
     }
     h2 {
       text-align: center;
