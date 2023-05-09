@@ -57,7 +57,7 @@
       color: rgb(129, 133, 137);
       font-size: 12px;
       text-align: center;
-      display: inline;
+      display: inline-block;
     }
     @media (max-width: 700px) {
       h1 {
