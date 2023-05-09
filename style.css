@@ -45,14 +45,22 @@
       padding: 20px;
       margin: 0 auto;
     }
+    .gallery {
+      width: 100%;
+    }
+    .gallery figure {
+      display: inline-block;
+      width: 30%;
+      min-height: 100px;
+    }
     figcaption {
       color: rgb(129, 133, 137);
       font-size: 12px;
       text-align: center;
       display: inline;
     }
-    figure {
-      display: inline;
+    img {
+      widht: 100%;
     }
     @media (max-width: 700px) {
       h1 {
