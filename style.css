@@ -59,6 +59,10 @@
       text-align: center;
       display: inline-block;
     }
+    td {
+      width: 30%;
+
+    }
     @media (max-width: 700px) {
       h1 {
         font-size: 36px;
